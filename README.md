@@ -1,8 +1,36 @@
-- 👋 Hi, I’m @LorenzKieran
-- 👀 I’m interested in React, Java, C# and Redux Saga
-- 🌱 I’m currently learning Node.js with express
+# 👋 Hi there, I'm Lorenz Kieran
 
-<!---
-LorenzKieran/LorenzKieran is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Student  
+📍 Based in Switzerland🇨🇭
+🌱 Currently learning C and diving deeper into low-level programming
+
+---
+
+### 🧠 About Me
+
+I'm a motivated Computer Science student with a strong interest in building robust software and exploring both high-level and low-level programming. I enjoy working across the stack — whether it's designing intuitive UIs or implementing efficient server-side logic.
+
+---
+
+### 🛠️ Tech Stack
+
+**Languages:**  
+Java • JavaScript • C# • C • PHP
+
+**Frameworks & Libraries:**  
+Spring Boot • JavaFX • React • Redux • Redux-Saga • Socket Programming
+
+**Styling:**  
+Tailwind CSS • Styled Components
+
+**Databases:**  
+MySQL • PostgreSQL
+
+---
+
+### 📚 Currently Exploring
+
+- Systems programming and memory management with **C**
+- Improving my understanding of software architecture and design patterns
+
+---
