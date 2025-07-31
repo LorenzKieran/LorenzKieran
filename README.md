@@ -8,7 +8,7 @@
 
 ### 🧠 About Me
 
-I'm a motivated Computer Science student with a strong interest in building robust software and exploring both high-level and low-level programming. I enjoy working across the stack — whether it's designing intuitive UIs or implementing efficient server-side logic.
+I'm a motivated Computer Science student with a strong interest in building robust software and exploring both high-level and low-level programming. I enjoy working across the stack, whether it's designing intuitive UIs or implementing efficient server-side logic.
 
 ---
 
